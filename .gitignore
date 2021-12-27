@@ -1,2 +1,4 @@
 nftmarket/settings.py
 nftmarket/__pycache__/*.*
+gallery/__pycache__/*.*
+db.sqlite3
