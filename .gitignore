@@ -4,3 +4,6 @@ gallery/__pycache__/*.*
 db.sqlite3
 *.DS_Store
 static/.DS_Store
+gallery/.DS_Store
+gallery/static/.DS_Store
+gallery/static/assets/.DS_Store
